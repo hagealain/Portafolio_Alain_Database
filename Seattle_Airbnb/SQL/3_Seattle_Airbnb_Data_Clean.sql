@@ -27,4 +27,7 @@
 
         SELECT * FROM listings WHERE price = 0;
 
-        
+    -- Habilitar el safemode para mayor seguridad en el futuro
+
+        SET SQL_SAFE_UPDATES = 1
+

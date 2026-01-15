@@ -7,7 +7,7 @@
     GROUP BY neighborhood_group
     ORDER BY avg_price;
 
-    -- Los 10 vecindarios más costos
+    -- Los 10 precios más altos de alojamiento por vecindario
 
     SELECT neighborhood_group, MAX(price) as max_price
     FROM listings
@@ -15,7 +15,7 @@
     ORDER BY max_price DESC
     LIMIT 10;
 
-    -- Los 10 vecindarios menos costos
+    -- Los 10 precios más bajos de alojamiento por vecindario
 
     SELECT neighborhood_group, MIN(price) as min_price
     FROM listings
