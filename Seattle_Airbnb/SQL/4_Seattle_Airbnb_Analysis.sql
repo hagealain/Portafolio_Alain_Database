@@ -78,7 +78,7 @@
     FROM listings
     GROUP BY room_type;
 
-    -- Grupo de vecindarios con el promedio de precio más alto para cada tipo de alojamiento.
+    -- Grupo de vecindarios con el promedio de precio para cada tipo de alojamiento.
 
     WITH NeighborhoodRoomTypeAvg AS (
         SELECT 	neighborhood_group,
