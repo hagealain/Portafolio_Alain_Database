@@ -88,7 +88,7 @@
 
     - Excel: Previsualización de datos crudos y preanálisis.
 
-    - SQL: limpieza, transformación, modelado y análisis de datos.
+    - SQL - MySQL: limpieza, transformación, modelado y análisis de datos.
 
     - Power BI: modelado semántico, medidas y visualización.
 
@@ -108,6 +108,7 @@
 
     Este proyecto demuestra un flujo completo de análisis de datos, desde la comprensión y tratamiento de datos crudos hasta la generación de insights accionables, priorizando la calidad, coherencia y claridad analítica en cada etapa del proceso.
 
-11. Nota final
+11. Notas finales
 
-    Los archivos dentro de la carpeta docs/ documentan de forma detallada el razonamiento detrás de cada decisión técnica y analítica.
+   - Los archivos dentro de la carpeta docs/ documentan de forma detallada el razonamiento detrás de cada decisión técnica y analítica.
+   - Para cargar la data para la visualización en Power BI seguir los pasos de "Seattle_Airbnb/data_model/info.md"
