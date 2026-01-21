@@ -2,7 +2,7 @@
 
 Analizar los datos de alojamientos Airbnb en Seattle para identificar patrones de oferta, precios y disponibilidad que apoyen la toma de decisiones tanto de huéspedes como de anfitriones.
 
-## Objetivos secundarios:
+## Objetivos específicos:
 
     1. Identificar la distribución de la oferta de alojamientos por tipo,
     vecindario y anfitrión.
