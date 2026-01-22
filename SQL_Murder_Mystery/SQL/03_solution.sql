@@ -1,3 +1,5 @@
+-- Soluciones al ejercicio.
+
 /* Con esta Query encontramos al villano después de indagar en los datos con las pistas de los testigos y la información disponible
  Se inserta en: "Find the murderer!" */
 
