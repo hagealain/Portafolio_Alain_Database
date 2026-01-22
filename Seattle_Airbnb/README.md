@@ -22,7 +22,7 @@
 
 3. Fuente de datos
 
-    Los datos utilizados corresponden al dataset público de "Seattle Airbnb Open Data - SQL Project" publicado en la página Kaggle con URL: "https://www.kaggle.com/datasets/swsw1717/seatle-airbnb-open-data-sql-project" y que a su vez son un agregado de "inside airbnb" con URL: "https://insideairbnb.com/get-the-data/" que publican información opensource de algunos alojamientos en ciudades de Estados Unidos. El dataset incluye información de:
+    Los datos utilizados corresponden al dataset público de "Seattle Airbnb Open Data - SQL Project" publicado en la página Kaggle con URL: "https://www.kaggle.com/datasets/swsw1717/seatle-airbnb-open-data-sql-project" y que a su vez son un agregado de "inside airbnb" con URL: "https://insideairbnb.com/get-the-data/" quienes publican información opensource de algunos alojamientos AirBNB en ciudades de Estados Unidos. El dataset incluye información de:
 
     - Alojamientos (listings)
 
