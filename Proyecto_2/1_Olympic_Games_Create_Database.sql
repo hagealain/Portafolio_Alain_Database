@@ -28,7 +28,7 @@
      
      CREATE TABLE IF NOT EXISTS countriessdr (
         Country varchar(100),
-        Code varchar(10),
+        Code varchar(10) PRIMARY KEY,
         Population FLOAT,
         GDP_per_capita Float
 	);
@@ -118,5 +118,15 @@ LOAD DATA LOCAL INFILE "E:/Documentos/Visual studio/Portafolio_Alain_Tinoco/Port
     event      = TRIM(@event),
     medal      = TRIM(@medal);
 
--- Creación de nuevas tablas 
+-- Creación de nuevas tablas. Definición de las primary y foreign keys.
+
+-- Tabla 4: athletes
+    CREATE TABLE Athletes (
+        AthleteID INT AUTO_INCREMENT PRIMARY KEY,
+        Athlete VARCHAR(100),
+        Gender VARCHAR(100),
+        CountryCode CHAR(3),
+        CONSTRAINT fk_athlete_country
+            FOREIGN KEY (CountryCode) REFERENCES Countriessdr(Code)
+    );
 
