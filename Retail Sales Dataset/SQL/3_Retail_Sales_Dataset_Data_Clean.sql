@@ -1,0 +1,1 @@
+-- La base no requiere de limpieza ya que está bien estructurada y con los formatos pertinentes, no requiere de transformar ni limpiar los datos.
