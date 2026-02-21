@@ -10,17 +10,17 @@
 
     Desarrollar un análisis integral de desempeño comercial y rentabilidad a partir de datos transaccionales, con el fin de identificar patrones de ingresos, concentración por segmento y estructura financiera del negocio. El proyecto busca transformar datos en insights accionables que apoyen la toma de decisiones estratégicas bajo un enfoque de Business Intelligence.
 
-2.1 Objetivos específicos
+    2.1 Objetivos específicos
 
-    - Analizar el desempeño comercial de la empresa.
+        - Analizar el desempeño comercial de la empresa.
 
-    - Identificar concentración de ingresos mediante análisis Pareto.
+        - Identificar concentración de ingresos mediante análisis Pareto.
 
-    - Evaluar comportamiento demográfico.
+        - Evaluar comportamiento demográfico.
 
-    - Simular estructura de costos y rentabilidad.
+        - Simular estructura de costos y rentabilidad.
 
-    - Medir contribución porcentual por categoría.
+        - Medir contribución porcentual por categoría.
 
 3. Fuente de datos
 
